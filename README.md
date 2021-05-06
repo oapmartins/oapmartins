@@ -1,6 +1,6 @@
 # Octavio Augusto
 
-<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
+<img align="right" src="https://raw.githubusercontent.com/oapmartins/oapmartins/main/image/computer-illustration.png" width="350"/>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/oapmartins)
 ](https://github.com/oapmartins)
