@@ -4,7 +4,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/oapmartins)
 ](https://github.com/oapmartins)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/octavio-martins-52b09b16b/)](https://www.linkedin.com/in/octavio-martins-52b09b16b/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oapmartins/)](https://www.linkedin.com/in/oapmartins/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:octaviomartins10@gmail.com)](mailto:octaviomartins10@gmail.com/)
 
 I'm a  _Full-Stack_ Developer (PHP, JavaScript, JQuery, MySQL).  Here on my GitHub profile you can see all my projects.
